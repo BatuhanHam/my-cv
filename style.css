@@ -168,8 +168,19 @@ a {
     margin: 5px;
     width: 170px;
     background-color: aliceblue;
+    border-radius: 0.8rem 0px 0.8rem 0;
+    font-weight: 600;
 }
 
 .w-100 {
     width: 100%;
+}
+
+.hobie-box {
+    padding: 1rem 2rem 1rem 1rem;
+    background: aliceblue;
+    color: #6c6c6c;
+    margin-right: 1rem;
+    width: 22%;
+    font-weight: 600;
 }
